@@ -41,6 +41,7 @@ public void onDisable()	{
   {
 	getLogger().info("#---------------------------------------------#");
 	getLogger().info("SupermanChatCleaner a Pornit! Versiunea: 1.2.2!");
+	getLogger().info("Plugin creat de xXsuperman_YTXx");
 	getLogger().info("#---------------------------------------------#");
     getCommand("cpchat").setExecutor(new PersonalChat());
     getCommand("cgchat").setExecutor(new GlobalChat());
