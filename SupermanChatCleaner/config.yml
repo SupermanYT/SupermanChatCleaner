@@ -1,0 +1,17 @@
+#---------------------------------------------------
+# SupermanChatCleaner(SCC) facut de xXsuperman_YTXx
+# Versiunea 1.3
+# Variabile: %player%: Numele jucatorului |
+# Nu editati nimic inafara de mesaje!
+#---------------------------------------------------
+
+#Cand Stergi Chatul Global
+GlobalChatClearMsg:
+  - "&2&l%player% &7a sters chatul global cu &2&lSupermanChatCleaner&7!"
+
+#Cand iti stergi chatul Propriu
+PersonalChatClearMsg:
+  - "&7Ti-ai sters propriul chat cu &2&lSupermanChatCleaner&7!"
+
+#Cand nu ai Permisile Necesare
+NoPermission: "&7[&cSCC&7]&2Nu ai acces la aceasta Comanda."
