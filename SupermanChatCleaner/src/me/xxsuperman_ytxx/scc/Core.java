@@ -40,7 +40,7 @@ public void onDisable()	{
   public void onEnable()
   {
 	getLogger().info("#---------------------------------------------#");
-	getLogger().info("SupermanChatCleaner a Pornit! Versiunea: 1.2.3!");
+	getLogger().info("SupermanChatCleaner a Pornit! Versiunea: 1.2.2!");
 	getLogger().info("#---------------------------------------------#");
     getCommand("cpchat").setExecutor(new PersonalChat());
     getCommand("cgchat").setExecutor(new GlobalChat());
