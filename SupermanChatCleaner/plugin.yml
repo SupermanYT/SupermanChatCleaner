@@ -1,6 +1,6 @@
 author: xXsuperman_YTXx
 main: me.xxsuperman_ytxx.scc.Core
-version: 1.2.3
+version: 1.2.8
 name: SupermanChatCleaner
 description: Foloseste acest plugin pentru a curata chatul!
 commands:
@@ -20,7 +20,3 @@ commands:
     description: Intra in meniul de Informatii.
     usage: /ccinfo
     aliases: [cinfo]
-  ccreload:
-    description: ReIncarca configul Pluginului!
-    usage: /ccreload
-    aliases: [creload]

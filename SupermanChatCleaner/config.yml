@@ -1,9 +1,12 @@
-#---------------------------------------------------
+#---------------------------------------------------------------------------
 # SupermanChatCleaner(SCC) facut de xXsuperman_YTXx
-# Versiunea 1.3
+# Versiunea 1.2.8
 # Variabile: %player%: Numele jucatorului |
 # Nu editati nimic inafara de mesaje!
-#---------------------------------------------------
+# Dependente: BarAPI (Optional)
+#---------------------------[BarAPI]----------------------------------------
+# Mesajele cu BarAPI SUNT SCRICT OPTIONALE! DACA LE DORITI INSTALATI BarAPI!
+#---------------------------------------------------------------------------
 
 #Cand Stergi Chatul Global
 GlobalChatClearMsg:
